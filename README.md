@@ -1,2 +1,3 @@
 # l10n_EC
-Porjects of localizacition of the Mozilla tools in indigenous languages of Ecuador.
+Projects of localization of the Mozilla tools in indigenous languages of Ecuador.
+Proyectos de localización de las herramientas de Mozilla en lenguas indígenas de Ecuador.
